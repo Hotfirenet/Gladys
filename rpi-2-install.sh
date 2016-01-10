@@ -19,7 +19,7 @@
 sudo apt-get update && sudo apt-get -y upgrade
 
 # Installing building tools
-sudo apt-get install -y build-essential
+sudo apt-get install -y build-essential git
 
 # Installing Node.js
 wget https://nodejs.org/dist/v4.2.2/node-v4.2.2-linux-armv7l.tar.xz
